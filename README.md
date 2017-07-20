@@ -13,9 +13,13 @@ El archivo debe tener la siguiente forma:
 Ejemplo:
 
 > 4
+
 > 1 1 0 0
+
 > 1 1 0 0
+
 > 0 0 1 0
+
 > 0 0 0 1
 
 Hay un fichero .jar con el que se puede ejecutar directamente la práctica.
